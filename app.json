@@ -1,0 +1,10 @@
+{
+  "name": "Inlets",
+  "repository": "https://github.com/pascalw/inlets-heroku.git",
+  "env": {
+    "TOKEN": {
+      "description": "Inlets token",
+      "generator": "secret"
+    }
+  }
+}
